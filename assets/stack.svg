@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 400" width="1400" height="400" role="img">
+<defs>
+<radialGradient id="g1" cx="18%" cy="22%" r="35%"><stop offset="0" stop-color="#3f8f24" stop-opacity=".75"/><stop offset="1" stop-color="#3f8f24" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="72%" cy="28%" r="30%"><stop offset="0" stop-color="#2e7d4f" stop-opacity=".7"/><stop offset="1" stop-color="#2e7d4f" stop-opacity="0"/></radialGradient>
+<radialGradient id="g3" cx="70%" cy="100%" r="32%"><stop offset="0" stop-color="#8a8f1f" stop-opacity=".7"/><stop offset="1" stop-color="#8a8f1f" stop-opacity="0"/></radialGradient>
+<radialGradient id="g4" cx="100%" cy="85%" r="18%"><stop offset="0" stop-color="#2a1a8a" stop-opacity=".8"/><stop offset="1" stop-color="#2a1a8a" stop-opacity="0"/></radialGradient>
+<clipPath id="c"><rect x="2" y="2" width="1396" height="396" rx="38"/></clipPath>
+<style>.b{animation:k 1.1s steps(1) infinite}@keyframes k{50%{opacity:0}}</style>
+</defs>
+<g clip-path="url(#c)"><rect width="1400" height="400" fill="#050d05"/><rect width="1400" height="400" fill="url(#g1)"/><rect width="1400" height="400" fill="url(#g2)"/><rect width="1400" height="400" fill="url(#g3)"/><rect width="1400" height="400" fill="url(#g4)"/></g>
+<rect x="2" y="2" width="1396" height="396" rx="38" fill="none" stroke="#2f8f3a" stroke-width="2"/>
+<rect x="46" y="42" width="1308" height="316" rx="34" fill="#061206" fill-opacity=".6" stroke="#2f8f3a" stroke-width="1.5"/>
+<text x="76" y="106" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="800" fill="#5fd06a">Language Stack</text>
+<text x="80" y="146" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="2" fill="#63d06e">Languages I work with</text>
+<text x="1296" y="112" text-anchor="end" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#6dff5a">&gt; stack.scan  <tspan class="b">_</tspan></text>
+<circle cx="100" cy="203" r="9" fill="#74f04f"/><text x="130" y="212" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#74f04f">Python</text>
+<text x="590" y="212" text-anchor="end" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#74f04f">60%</text>
+<rect x="640" y="195" width="656" height="14" rx="7" fill="#2a3a2e" fill-opacity=".85"/><rect x="640" y="195" width="394" height="14" rx="7" fill="#74f04f"/>
+<circle cx="100" cy="259" r="9" fill="#63d97a"/><text x="130" y="268" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#63d97a">C++</text>
+<text x="590" y="268" text-anchor="end" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#63d97a">50%</text>
+<rect x="640" y="251" width="656" height="14" rx="7" fill="#2a3a2e" fill-opacity=".85"/><rect x="640" y="251" width="328" height="14" rx="7" fill="#63d97a"/>
+<circle cx="100" cy="315" r="9" fill="#6fd58e"/><text x="130" y="324" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#6fd58e">Java</text>
+<text x="590" y="324" text-anchor="end" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#6fd58e">20%</text>
+<rect x="640" y="307" width="656" height="14" rx="7" fill="#2a3a2e" fill-opacity=".85"/><rect x="640" y="307" width="131" height="14" rx="7" fill="#6fd58e"/>
+</svg>
